@@ -25,7 +25,7 @@ $ python main.py
 
 <b><u>R-Squared gained</u></b> - 0.998 (Quite Good!)
 
-See the <a href="https://drive.google.com/file/d/19RI3_9dIZAQEm7DPoXhukthlurucqvav/view?usp=share_link">Demo Video</a>
+
 
 
 Dataset <a href="https://www.kaggle.com/datasets/suyog17/salary-prediction">Here</a>"# salary-prediction-using-simple-linear-regression-" 
