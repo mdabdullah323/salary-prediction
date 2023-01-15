@@ -28,4 +28,6 @@ $ python main.py
 
 
 
-Dataset <a href="https://www.kaggle.com/datasets/suyog17/salary-prediction">Here</a>"# salary-prediction-using-simple-linear-regression-" 
+Dataset <a href="https://www.kaggle.com/datasets/suyog17/salary-prediction">Here</a>"
+
+
